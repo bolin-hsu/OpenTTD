@@ -55,7 +55,7 @@ static const uint NETWORK_GRF_NAME_LENGTH         =   80;         ///< Maximum l
  * Maximum number of GRFs that can be sent.
  * This limit is reached when PACKET_UDP_SERVER_RESPONSE reaches the maximum size of SEND_MTU bytes.
  */
-static const uint NETWORK_MAX_GRF_COUNT           =   62;
+static const uint NETWORK_MAX_GRF_COUNT           =  162;
 
 static const uint NETWORK_NUM_LANGUAGES           =   36; ///< Number of known languages (to the network protocol) + 1 for 'any'.
 
