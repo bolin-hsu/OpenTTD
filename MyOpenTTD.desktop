@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=2020-12-17
+Name=MyOpenTTD
+Exec=/bin/bash -c "/home/ryan/repos/OpenTTD/build/openttd"
+Type=Application
+Icon=/home/ryan/repos/OpenTTD/train.png
+Terminal=true
+Categories=Game
